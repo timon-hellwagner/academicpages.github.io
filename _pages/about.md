@@ -20,4 +20,4 @@ Vanella P., Hellwagner T. and Deschermeier P. (2022). [Past and Future Trends in
 <h2>Working Papers</h2>
 Hellwagner T. and Weber E. (2024). [Labor Market Adjustments to Population Decline: A Historical Macroeconomic Perspective, 1875-2019](https://doi.org/10.48720/IAB.DP.2405). IAB-Discussion Paper 05/2024.
 
-Hellwagner T., Söhnlein D. and Weber E. (2024). [Modeling Migration Dynamics in Stochastic Labor Supply Forecasting](https://doi.org/10.48720/IAB.DP.2305). IAB-Discussion Paper 05/2023.
+Hellwagner T., Söhnlein D. and Weber E. (2023). [Modeling Migration Dynamics in Stochastic Labor Supply Forecasting](https://doi.org/10.48720/IAB.DP.2305). IAB-Discussion Paper 05/2023.
