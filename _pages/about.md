@@ -18,6 +18,6 @@ Vanella P., Hellwagner T. and Deschermeier P. (2023). [Parsimonious Stochastic F
 Vanella P., Hellwagner T. and Deschermeier P. (2022). [Past and Future Trends in Refugee Migration on the Regional Level in Germany – An Analysis and Projection of Labor Market Effects](https://doi.org/10.12765/CPoS-2022-17). <em>Comparative Population Studies</em> 47.
 
 <h2>Working Papers</h2>
-Hellwagner T. and Weber E. (2024). [Labor Market Adjustments to Population Decline: A Historical Macroeconomic Perspective, 1875-2019](https://doi.org/10.48720/IAB.DP.2405). IAB-Discussion Paper 05/2024.
+Hellwagner T. and Weber E. (2024). [Labor Market Adjustments to Population Decline: A Historical Macroeconomic Perspective, 1875-2019](https://doi.org/10.48720/IAB.DP.2405). IAB-Discussion Paper 05/2024. \[Data available upon request\]
 
 Hellwagner T., Söhnlein D. and Weber E. (2023). [Modeling Migration Dynamics in Stochastic Labor Supply Forecasting](https://doi.org/10.48720/IAB.DP.2305). IAB-Discussion Paper 05/2023.
